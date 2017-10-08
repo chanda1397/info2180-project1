@@ -1,0 +1,56 @@
+body{
+	background-color: rgb(126,170,126);
+}
+
+
+
+
+
+div#image{
+	margin: 20px;
+	margin: 20px;
+	position: relative;
+	-webkit-transform: rotate(359deg);
+}
+
+#image img{
+	position:absolute;
+	top:0px;
+	right:30px;
+}
+
+#sub{
+	float:left;
+}
+
+.experience{
+	font-weight:bold;
+	border-right: 0.25px solid black;
+	margin-left: 50px;
+	margin-bottom:auto;
+	padding-right: 5px;
+}
+
+.Education{
+	font-weight:bold;
+	border-right: 0.25px solid black;	
+	margin-left: 50px;
+	margin-bottom:auto;
+}
+
+.skills{
+	font-weight:bold;
+	border-right: 0.25px solid black;
+	margin-left: 50px;
+	margin-bottom:auto;
+	padding-left: 30px;
+
+}
+
+.lists{
+	margin-left: 125px;
+}
+
+ul{
+	list-style-type: none;
+}
